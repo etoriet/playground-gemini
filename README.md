@@ -10,4 +10,9 @@ postCreateCommandではインストールエラーとなったので以下を手
 npm install -g @google/gemini-cli
 ```
 
-インストール後のセットアップ: https://blog.g-gen.co.jp/entry/gemini-cli-explained
+インストール後のセットアップ: [参考記事](https://blog.g-gen.co.jp/entry/gemini-cli-explained)
+
+## Action Item
+
+- ソースコード解析のプロンプト作成
+  - templates/*.md に解析観点を追加
