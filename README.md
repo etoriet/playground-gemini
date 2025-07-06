@@ -16,3 +16,4 @@ npm install -g @google/gemini-cli
 
 - ソースコード解析のプロンプト作成
   - templates/*.md に解析観点を追加
+- 解析対象リポジトリの追加、解析結果のレビューによるプロンプト改善
